@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Spyros
 - 👀 I’m interested in coding and software development.
 - 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on anyone who shares the same passion about coding and finding solution to chanllenging problems.
+- 💞️ I’m looking to collaborate on anyone who shares the same passion about coding and finding solution to challenging problems.
 - 📫 How to reach me: Email - SpyrosGian7@gmail.com LinkedIn - linkedin.com/in/sp-gianna
 
 <!---
